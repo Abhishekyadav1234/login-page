@@ -1,0 +1,35 @@
+body{
+    background-color: green;
+}
+.form{
+    height: 75%;
+    width: 30%;
+    background-color: white;
+    margin: auto;
+    margin-top: 200px;
+}
+h1 {
+    text-align: center;
+    /* color: white; */
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+button{
+    width: 45%;
+    border-radius: 5px;
+    margin: auto;
+}
+.button{
+    background-color: darkgreen;
+    margin-left:50px;
+}
+input{
+    margin-left:50px;
+}
+a{
+    color: green;
+}
